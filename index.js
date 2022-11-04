@@ -171,7 +171,7 @@ XeonLft = await getBuffer(ppuser)
    │✑ ${xmembers}th
    │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
    │✑ ${xtime} ${xdate}
-   └───────────────┈ ⳹`
+       &{xdesc}
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
@@ -211,6 +211,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
    │✑ ${xeonmembers}th
    │✑  𝗧𝗶𝗺𝗲 : 
+
    │✑  ${xeontime} ${xeondate}
    └───────────────┈ ⳹`
 let buttons = [
