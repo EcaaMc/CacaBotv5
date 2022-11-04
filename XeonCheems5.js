@@ -47,7 +47,7 @@ const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')
 var ucapanWaktu = 'Good night 🌌'
  }
  if(time2 < "18:00:00"){
-var ucapanWaktu = 'Good night'
+var ucapanWaktu = 'Good night 🌌'
  }
  if(time2 < "17:00:00"){
 var ucapanWaktu = 'Good afternoon 🌅'
