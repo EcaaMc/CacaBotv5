@@ -171,7 +171,7 @@ XeonLft = await getBuffer(ppuser)
    │✑ ${xmembers}th
    │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
    │✑ ${xtime} ${xdate}
-       &{xdesc}
+      ${xdesc}
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
