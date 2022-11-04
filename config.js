@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -57,10 +57,10 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspicc.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspicc.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspicc.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspicc.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
