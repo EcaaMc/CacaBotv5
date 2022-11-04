@@ -17,7 +17,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['6282228877291'] //ur owner number
 global.ownername = "🦄CacaOwn" //ur owner name
 global.ytname = "YT: CACA BOT" //ur yt chanel name
-global.socialm = "GitHub: EcaaMc" //ur github or insta name
+global.socialm = "GitHub:EcaaMc" //ur github or insta name
 global.location = "Indonesia, Jatim" //ur location
 
 //bot bomdy 
@@ -27,9 +27,9 @@ global.ownertag = '6282228877291' //ur tag number
 global.premium = ['6282228877291'] //ur premium number
 global.botname = 'CacaBot-MD' //ur bot name
 global.ownername = "🦄CacaOwm"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/EcaaMc' //script link
+global.linkz = "https://youtube.com/channel/UCbGoYvWRE6ahfgUaLvpArdg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCbGoYvWRE6ahfgUaLvpArdg" //ur website to be displayed
+global.botscript = 'wa.me/+6282228877291' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "CacaBot-MD" //ur sticker watermark author
