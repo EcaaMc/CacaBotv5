@@ -40,9 +40,9 @@ const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 
 //TIME
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Asia/Jakarta').format('HH:mm:ss')
+const xdate = moment.tz('Asia/Jakarta').format('DD/MM/YYYY')
+const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')  
  if(time2 < "23:59:00"){
 var ucapanWaktu = 'Good night 🌌'
  }
@@ -5742,7 +5742,8 @@ break
 case 'tqtt': 
 throw `Thanks to
 LORD BUDDHA
-Xeon (Me)
+Icha (Me)
+Nakata (Mybf)
 My family
 And all friends who helped assemble this sexy script !!!`
 break
